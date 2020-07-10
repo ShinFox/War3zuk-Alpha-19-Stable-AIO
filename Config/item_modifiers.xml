@@ -10,9 +10,6 @@
 		<property name="DisplayType" value="modArmor"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="Group" value="Mods"/>
-		<property name="Material" value="Mleather"/>
-		<property name="EconomicValue" value="120"/>
-		<property name="SellableToTrader" value="true"/>
 		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 		<property name="DescriptionKey" value="modArmorPlatingBasicDesc"/>
 		<effect_group tiered="false">
@@ -28,9 +25,6 @@
 		<property name="DisplayType" value="modArmor"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="Group" value="Mods"/>
-		<property name="Material" value="Mleather"/>
-		<property name="EconomicValue" value="120"/>
-		<property name="SellableToTrader" value="true"/>
 		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 		<property name="DescriptionKey" value="modArmorPlatingBasicDesc"/>
 		<effect_group tiered="false">
@@ -46,9 +40,6 @@
 		<property name="DisplayType" value="modArmor"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="Group" value="Mods"/>
-		<property name="Material" value="Mleather"/>
-		<property name="EconomicValue" value="120"/>
-		<property name="SellableToTrader" value="true"/>
 		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 		<property name="DescriptionKey" value="modArmorPlatingBasicDesc"/>
 		<effect_group tiered="false">
@@ -64,9 +55,6 @@
 		<property name="DisplayType" value="modArmor"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="Group" value="Mods"/>
-		<property name="Material" value="Mleather"/>
-		<property name="EconomicValue" value="120"/>
-		<property name="SellableToTrader" value="true"/>
 		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 		<property name="DescriptionKey" value="modArmorPlatingBasicDesc"/>
 		<effect_group tiered="false">
@@ -82,9 +70,6 @@
 		<property name="DisplayType" value="modArmor"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="Group" value="Mods"/>
-		<property name="Material" value="Mleather"/>
-		<property name="EconomicValue" value="120"/>
-		<property name="SellableToTrader" value="true"/>
 		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 		<property name="DescriptionKey" value="modArmorPlatingBasicDesc"/>
 		<effect_group tiered="false">
@@ -100,9 +85,6 @@
 		<property name="DisplayType" value="modArmor"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="Group" value="Mods"/>
-		<property name="Material" value="Mleather"/>
-		<property name="EconomicValue" value="120"/>
-		<property name="SellableToTrader" value="true"/>
 		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 		<property name="DescriptionKey" value="modArmorPlatingBasicDesc"/>
 		<effect_group tiered="false">
@@ -119,9 +101,6 @@
 		<property name="CustomIcon" value="AeroDynamicsUpgrade"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="Group" value="Mods"/>
-		<property name="Material" value="Mplastics"/>
-		<property name="EconomicValue" value="140"/>
-		<property name="SellableToTrader" value="true"/>
 		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 		<effect_group tiered="false">
 			<passive_effect name="VehicleVelocityMaxPer" operation="perc_set" value="2"/>
@@ -135,9 +114,6 @@
 		<property name="CustomIcon" value="FuelSaverUpgrade"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="Group" value="Mods"/>
-		<property name="Material" value="Mplastics"/>
-		<property name="EconomicValue" value="140"/>
-		<property name="SellableToTrader" value="true"/>
 		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 		<effect_group tiered="false">
 			<passive_effect name="VehicleFuelUsePer" operation="perc_set" value=".5"/>
@@ -150,9 +126,6 @@
 		<property name="CustomIcon" value="HeadlightsUpgrade"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="Group" value="Mods"/>
-		<property name="Material" value="Mplastics"/>
-		<property name="EconomicValue" value="140"/>
-		<property name="SellableToTrader" value="true"/>
 		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 		<effect_group tiered="false">
 			<passive_effect name="LightIntensity" operation="perc_set" value="2.5"/>
@@ -165,9 +138,6 @@
 		<property name="CustomIcon" value="TurboUpgrade"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="Group" value="Mods"/>
-		<property name="Material" value="Mplastics"/>
-		<property name="EconomicValue" value="140"/>
-		<property name="SellableToTrader" value="true"/>
 		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 		<effect_group tiered="false">
 			<passive_effect name="VehicleVelocityMaxPer" operation="perc_set" value="3"/>
@@ -884,7 +854,6 @@
 		<property name="CustomIcon" value="HD RuckSack Upgrade"/>
 		<property name="DescriptionKey" value="HDRuckSackUpgradeDesc"/>
 		<property name="DisplayType" value="modCarryCapacity"/>
-		<property name="Material" value="Mleather"/>
 		<property name="Stacknumber" value="1"/>
 		<property name="Group" value="Mods"/>
 		<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
